@@ -20,7 +20,7 @@ For now, there is no release yet.
 
 ## Server Requirements
 
-The plan is to use Node.js and Express
+The plan is to use Node.js and Express.  This project seemed like a good idea at the time, but I could change my mind.
 
 ## Installation
 None yet, I'd like to publish what I will have on NPM eventually.
@@ -38,8 +38,7 @@ MIT license, unless BCIT has a BCIT license.
 * [Vue.js](https://github.com/vuejs/vue)
 * [Electron](https://github.com/electron/electron)
 * [Photon](https://github.com/connors/photon)
-
-Links will be added shortly.
+* [node-notifier](https://github.com/mikaelbr/node-notifier)
 
 ## Acknowledgement
 
