@@ -31,11 +31,11 @@ MIT license, unless BCIT has a BCIT license.
 ## Resources
 
 * Node.js
-* Express
-* Morgan
+* [Express](https://github.com/expressjs/express)
+* [Morgan](https://github.com/expressjs/morgan)
 * Sockets.io
 * Forever
-* Vue.js
+* [Vue.js](https://github.com/vuejs/vue)
 
 Links will be added shortly.
 
