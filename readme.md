@@ -30,12 +30,14 @@ MIT license, unless BCIT has a BCIT license.
 
 ## Resources
 
-* Node.js
+* [Node.js](https://github.com/nodejs/node)
 * [Express](https://github.com/expressjs/express)
 * [Morgan](https://github.com/expressjs/morgan)
-* Sockets.io
-* Forever
+* [Sockets.io](https://github.com/socketio/socket.io/)
+* [Forever](https://github.com/foreverjs/forever)
 * [Vue.js](https://github.com/vuejs/vue)
+* [Electron](https://github.com/electron/electron)
+* [Photon](https://github.com/connors/photon)
 
 Links will be added shortly.
 
